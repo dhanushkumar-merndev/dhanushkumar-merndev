@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=250&section=header&text=Dhanush%20Kumar%20R&fontSize=60&fontColor=fff&fontAlignY=40&desc=✦%20Web%20Developer%20✦&descAlignY=60&descAlign=50&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,6,14&height=280&section=header&text=Dhanush%20Kumar%20R&fontSize=65&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=✦%20Web%20Developer%20✦&descAlignY=58&descAlign=50&descSize=24"/>
 
 <br/>
 
@@ -27,35 +27,35 @@ I'm a **full-stack web developer** passionate about crafting intuitive and perfo
 ### 🎯 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" style="margin: 0 20px;"/>
 </p>
 
 ### 🎨 Styling Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" style="margin: 0 20px;"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="margin: 0 20px;"/>
 </p>
 
 ### 🗄️ Database & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" style="margin: 0 15px;"/>
-  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" style="margin: 0 20px;"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" style="margin: 0 20px;"/>
 </p>
 
 </div>
@@ -109,4 +109,4 @@ const dhanushKumarR = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,6,14&height=140&section=footer&animation=scaleIn"/>
