@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,6,14&height=280&section=header&text=Dhanush%20Kumar%20R&fontSize=65&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=✦%20Web%20Developer%20✦&descAlignY=58&descAlign=50&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=300&section=header&text=Dhanush%20Kumar%20R&fontSize=65&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=✦%20Web%20Developer%20✦&descAlignY=58&descAlign=50&descSize=24&waveHeight=30"/>
 
 <br/>
 
@@ -65,15 +65,16 @@ I'm a **full-stack web developer** passionate about crafting intuitive and perfo
 ## 🎯 What I'm Focused On
 
 <div align="center">
-```javascript
-const dhanushKumarR = {
-    currentlyLearning: ["Advanced NestJS patterns", "Microservices architecture"],
-    workingOn: ["Full-stack MERN applications", "RESTful & GraphQL APIs"],
-    exploring: ["Performance optimization", "System design", "Cloud deployment"],
-    contributing: ["Open source projects", "Developer community"],
-    goals2025: ["Master scalable architectures", "Build impactful products"]
-};
-```
+
+**Currently Learning:** Advanced NestJS patterns • Microservices architecture
+
+**Working On:** Full-stack MERN applications • RESTful & GraphQL APIs
+
+**Exploring:** Performance optimization • System design • Cloud deployment
+
+**Contributing:** Open source projects • Developer community
+
+**Goals 2025:** Master scalable architectures • Build impactful products
 
 </div>
 
@@ -109,4 +110,4 @@ const dhanushKumarR = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,6,14&height=140&section=footer&animation=scaleIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=150&section=footer&animation=scaleIn&waveHeight=30"/>
