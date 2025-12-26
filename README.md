@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DHANUSH&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=✦%20Web%20Developer%20✦&descAlignY=51&descAlign=50&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=250&section=header&text=Dhanush%20Kumar%20R&fontSize=60&fontColor=fff&fontAlignY=40&desc=✦%20Web%20Developer%20✦&descAlignY=60&descAlign=50&descSize=22"/>
 
 <br/>
 
@@ -27,55 +27,36 @@ I'm a **full-stack web developer** passionate about crafting intuitive and perfo
 ### 🎯 Frontend Development
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" style="margin: 0 15px;"/>
 </p>
 
 ### 🎨 Styling Frameworks
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" style="margin: 0 15px;"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="margin: 0 15px;"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & ORM
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" style="margin: 0 15px;"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" style="margin: 0 15px;"/>
 </p>
-
-</div>
-
-<br/><br/>
-
-## 🏅 Achievements & Badges
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Full_Stack_Developer-FF6B6B?style=for-the-badge&logo=stackOverflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Open_Source_Contributor-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem_Solver-9C27B0?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Clean_Code_Advocate-2196F3?style=for-the-badge&logo=codacy&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/50%2B-Projects_Completed-00BCD4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/MERN-Specialist-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 </div>
 
@@ -85,7 +66,7 @@ I'm a **full-stack web developer** passionate about crafting intuitive and perfo
 
 <div align="center">
 ```javascript
-const dhanush = {
+const dhanushKumarR = {
     currentlyLearning: ["Advanced NestJS patterns", "Microservices architecture"],
     workingOn: ["Full-stack MERN applications", "RESTful & GraphQL APIs"],
     exploring: ["Performance optimization", "System design", "Cloud deployment"],
@@ -102,20 +83,14 @@ const dhanush = {
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/dhanushkumar-merndev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/dhanush-kumar-r-23196a383/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="40"/>
 </a>
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" height="40"/>
-</a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:dhanushkumar-merndev@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40"/>
-</a>
-<a href="https://twitter.com/yourhandle">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="40"/>
 </a>
 
 </div>
@@ -128,7 +103,7 @@ const dhanush = {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=dhanushkumar-merndev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/><br/>
 
