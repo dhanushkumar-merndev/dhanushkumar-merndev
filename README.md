@@ -1,15 +1,10 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e74c3c,30:e67e22,60:f39c12,100:f1c40f&height=300&section=header&text=Dhanush%20Kumar%20R&fontSize=65&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=✦%20Web%20Developer%20✦&descAlignY=58&descAlign=50&descSize=24&waveHeight=30"/>
 
 <br/>
-
 ### ✨ Building modern, fast, and scalable web experiences ✨
-
 <br/><br/>
-
 </div>
-
 ## 🌟 About Me
 
 <div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px;">
