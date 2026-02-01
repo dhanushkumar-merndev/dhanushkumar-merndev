@@ -76,13 +76,13 @@ I'm a **full-stack web developer** passionate about crafting intuitive and perfo
 
 **Currently Learning:** Advanced NestJS patterns • Microservices architecture
 
-**Working On:** Full-stack MERN applications • RESTful & GraphQL APIs
+**Working On:** Full-stack MERN applications • RESTful
 
 **Exploring:** Performance optimization • System design • Cloud deployment
 
 **Contributing:** Open source projects • Developer community
 
-**Goals 2025:** Master scalable architectures • Build impactful products
+**Goals 2026:** Master scalable architectures • Build impactful products
 
 </div>
 
