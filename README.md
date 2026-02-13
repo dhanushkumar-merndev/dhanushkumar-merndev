@@ -3,7 +3,7 @@
 
 <br/>
 
-### ✨ Building modern, fast, and scalable web experiences ✨
+### ✨ Building modern, fast, and scalable web application ✨
 
 <br/><br/>
 </div>
