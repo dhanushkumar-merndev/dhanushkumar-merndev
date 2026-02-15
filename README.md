@@ -78,7 +78,7 @@ I'm a **full-stack web developer** passionate about crafting intuitive and perfo
 
 **Working On:** Full-stack MERN applications • RESTful
 
-**Exploring:** Performance optimization • System design • Cloud deployment
+**Exploring:** Performance optimization • System design 
 
 **Contributing:** Open source projects • Developer community
 
