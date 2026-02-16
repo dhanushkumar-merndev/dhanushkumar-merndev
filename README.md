@@ -12,7 +12,7 @@
 
 <div style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px;">
 
-I'm a **full-stack web developer** passionate about crafting intuitive and performant web applications. I specialize in the **MERN stack** and modern frameworks like **Next.js** and **NestJS**, focusing on clean architecture, scalable solutions, and delivering seamless user experiences across the entire web development.
+I'm a **full-stack web developer** passionate about crafting intuitive and performant web applications. I specialize in the **MERN stack** and modern frameworks like **Next.js** , focusing on clean architecture, scalable solutions, and delivering seamless user experiences across the entire web development.
 
 </div>
 
